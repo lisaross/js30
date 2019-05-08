@@ -1,0 +1,13 @@
+{
+  "name": "js30week1",
+  "version": "1.0.0",
+  "description": "drum kit",
+  "main": "index.js",
+  "author": "Lisa Ross",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}
