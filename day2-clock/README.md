@@ -13,3 +13,4 @@ rotate on the very right hand side (in the middle)
 ## TODO
 
 - better function to not have to recreate all the types(second,min,hour) since it's the same for each with a few exceptions
+- add numbers

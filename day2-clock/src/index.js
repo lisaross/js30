@@ -19,6 +19,7 @@ function setDate() {
   const time = hour + ':' + minutes + ':' + seconds;
   console.log(time);
 }
+
 function runClock() {
   // run set date every 1000ms (1sec)
   setInterval(setDate, 1000);
